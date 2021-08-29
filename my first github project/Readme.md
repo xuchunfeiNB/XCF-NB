@@ -18,7 +18,7 @@ What's the project?
 How can I start the project:
   	Step1:Install Microsoft Visual Studio 2019 or higher verison
   	Step2:Download Easyx and install it 
-  	Step3:open sln file
-  	Also you could replace the picture in the file named resource,but remember remain the px 300*300,as well as the back image and back music.It depends on yourself.
+  	Step3:Open sln file
+  	Also you could replace the picture in the file named resource,but remember to remain the px 300*300,as well as the back images and back musics.It all depends on yourself.
   
 If you appreciate the project,you could communicate with me by e-mail 2367347407@qq.com
