@@ -1,0 +1,7 @@
+[
+  {
+    "directory": "D:\\project\\game",
+    "command": "\"C:\\windows\\system32\\CL.exe\" \/c \/ZI \/JMC \/nologo \/W3 \/WX- \/diagnostics:column \/Od \/Oy- \/D CODE_ANALYSIS \/D WIN32 \/D _DEBUG \/D _CONSOLE \/D _MBCS \/EHsc \/RTC1 \/MDd \/GS \/fp:precise \/permissive- \/Fo\"Debug\\\\\" \/Gd \/TP   \"D:\\project\\game\\范晓峰大战.cpp\"",
+    "file": "D:\\project\\game\\范晓峰大战.cpp"
+  }
+]
