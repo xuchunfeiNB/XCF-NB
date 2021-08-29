@@ -7,13 +7,13 @@ Welcome to this project,a silly or boring project !
 
 Prior Announcements:
   	Probably you will think that the project is silly and boring ,well ,I'm just a programming beginer.
-        I'will keep improving it and try my best ,although I'm just a senior school student.
+        I will keep improving it and try my best ,although I'm just a senior school student.
  	This project is base on C++ and easyx.
 
 What's the project?
 	This project is mainly used to creat a dynamic effect ，you will see many pictures rotate around the center.
   	It's only a frame with px:900*900 and the picture you selected must be px300*300 and no more than 8.
-  	The rotate speed can be chosen by yourself in the variable："speech".
+  	The rotate speed can be chosen by yourself in the variable："speed".
   
 How can I start the project:
   	Step1:Install Microsoft Visual Studio 2019 or higher verison
